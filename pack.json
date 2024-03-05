@@ -1,0 +1,10 @@
+{
+  "name": "Final Fantasy XV Hammerhead",
+  "description": "Hammerhead song from Final Fantasy XV",
+  "author": "SoftieBoy6",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
